@@ -5,3 +5,5 @@
 💡 Eager to learn, grow, and collaborate.
 
 📧 Email: lucasrissocaballero@gmail.com
+
+🌐 LinkedIn: [Lucas Risso](https://www.linkedin.com/in/lucas-risso-897a05261/)
