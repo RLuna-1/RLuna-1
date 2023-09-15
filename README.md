@@ -1,6 +1,17 @@
 👋 Hello there! I'm Lucas Risso, a fullstack developer based in Uruguay.
 
-🚀 Skills: JavaScript, Node.js, React, Redux, SQL, Sequelize.
+🚀 Technologies: 
+  ● Javascript
+  ● Node.js
+  ● Express
+  ● React
+  ● Redux
+  ● Sequelize
+
+📕 Currently learning:
+  ● SQL
+  ● Typescript
+  ● Angular
 
 💡 Eager to learn, grow, and collaborate.
 
