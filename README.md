@@ -1,4 +1,4 @@
-👋 Hey there! I'm Lucas Risso, a web developer based in Uruguay.
+👋 Hello there! I'm Lucas Risso, a fullstack developer based in Uruguay.
 
 🚀 Skills: JavaScript, Node.js, React, Redux, SQL, Sequelize.
 
