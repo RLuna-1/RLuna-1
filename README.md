@@ -1,4 +1,4 @@
-👋 Hello there! I'm Lucas Risso, a fullstack developer based in Uruguay.
+👋 Hello there! I'm Lucas Risso, a fullstack web developer based in Uruguay.
 
 🚀 Technologies: 
   ● Javascript
